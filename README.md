@@ -16,7 +16,7 @@ This project demonstrates portfolio optimization using historical stock data. Th
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-optimization.git
+   git clone https://github.com/KaranJ09/Portfolio-Optimisation
 2. Install the required librares:
    pip install -r requirements.txt
 3. Run the portfolio_optimization.ipynb notebook.
